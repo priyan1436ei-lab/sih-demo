@@ -1,0 +1,6 @@
+{
+  "name": "PashuRaksha AI",
+  "description": "AI-powered livestock health monitoring and early disease-outbreak warning platform for rural India, connecting farmers, veterinarians, and government officials.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
